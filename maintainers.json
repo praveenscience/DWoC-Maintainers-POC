@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "Praveen Kumar Purushothaman",
+    "Desc": "Full Stack JavaScript Specialist & Mentor",
+    "Pics": [
+      "https://i.imgur.com/iiTWGn6.jpg",
+      "https://i.imgur.com/sWTTQEc.png",
+      "https://i.imgur.com/0ghBiKE.png"
+    ],
+    "Contact": {
+      "WhatsApp": "+447405708485",
+      "Website": "https://praveen.science/",
+      "LinkedIn": "https://www.linkedin.com/in/praveentech/",
+      "GitHub": "https://github.com/praveenscience/",
+      "Facebook": "https://www.facebook.com/praveenscience/",
+      "Twitter": "https://twitter.com/praveenscience",
+      "Instagram": "https://www.instagram.com/praveenscience/"
+    },
+    "Project": "https://github.com/praveenscience/Internship-LMS-FrontEnd",
+    "Tech": ["HTML", "CSS", "JavaScript", "React JS", "Node JS"]
+  }
+]
