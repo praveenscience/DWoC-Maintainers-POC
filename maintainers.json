@@ -8,7 +8,6 @@
       "https://i.imgur.com/0ghBiKE.png"
     ],
     "Contact": {
-      "WhatsApp": "+447405708485",
       "Website": "https://praveen.science/",
       "LinkedIn": "https://www.linkedin.com/in/praveentech/",
       "GitHub": "https://github.com/praveenscience/",
@@ -17,7 +16,13 @@
       "Instagram": "https://www.instagram.com/praveenscience/"
     },
     "Project": "https://github.com/praveenscience/Internship-LMS-FrontEnd",
-    "Tech": ["HTML", "CSS", "JavaScript", "React JS", "Node JS"]
+    "Tech": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React JS",
+      "Node JS"
+    ]
   },
   {
     "Name": "Abir Pal",
