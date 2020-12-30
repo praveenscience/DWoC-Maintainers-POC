@@ -46,5 +46,25 @@
       "UI",
       "UX"
     ]
+  },
+  {
+    "Name": "Sai Durga Kamesh Kota",
+    "Desc": "Machine Learning Practioner and Google DSC ML Lead",
+    "Pics": [
+      "https://avatars2.githubusercontent.com/u/46109386?s=460&u=c680abd3f6a618a603e7f1c0e468e111e1364fff&v=4"
+    ],
+    "Contact": {
+      "Website": "http://saidurgakameshkota.tech/",
+      "LinkedIn": "https://www.linkedin.com/in/saidurgakameshkota/",
+      "GitHub": "https://github.com/ksdkamesh99",
+      "Twitter": "https://twitter.com/ksdkamesh99"
+    },
+    "Project": "https://github.com/ksdkamesh99/TensorGram",
+    "Tech": [
+      "Machine Learning",
+      "Flask",
+      "Keras,
+      "Tensorflow",
+      "PyPI Package"    ]
   }
 ]
