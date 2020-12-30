@@ -18,5 +18,28 @@
     },
     "Project": "https://github.com/praveenscience/Internship-LMS-FrontEnd",
     "Tech": ["HTML", "CSS", "JavaScript", "React JS", "Node JS"]
+  },
+  {
+    "Name": "Abir Pal",
+    "Desc": "Student Developer and Evanglist @ TechSmith(US)",
+    "Pics": [
+      "https://avatars3.githubusercontent.com/u/53480076?s=460&u=c1aad58f1a773750a47475682afa80ac3b74f583&v=4"
+    ],
+    "Contact": {
+      "Website": "https://abirpal.netlify.com",
+      "LinkedIn": "https://www.linkedin.com/in/imabp",
+      "GitHub": "https://github.com/imabp",
+      "Twitter": "https://twitter.com/imabptweets"
+    },
+    "Project": "https://github.com/Tech-Phantoms/Tech_Phantoms_website",
+    "Tech": [
+      "Airtable",
+      "React JS",
+      "Node JS",
+      "Material UI",
+      "Design",
+      "UI",
+      "UX"
+    ]
   }
 ]
