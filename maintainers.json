@@ -16,7 +16,13 @@
       "Instagram": "https://www.instagram.com/praveenscience/"
     },
     "Project": "https://github.com/praveenscience/Internship-LMS-FrontEnd",
-    "Tech": ["HTML", "CSS", "JavaScript", "React JS", "Node JS"]
+    "Tech": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React JS",
+      "Node JS"
+    ]
   },
   {
     "Name": "Abir Pal",
@@ -54,6 +60,35 @@
       "Twitter": "https://twitter.com/ksdkamesh99"
     },
     "Project": "https://github.com/ksdkamesh99/TensorGram",
-    "Tech": ["Machine Learning", "Flask", "Keras", "Tensorflow", "PyPI Package"]
+    "Tech": [
+      "Machine Learning",
+      "Flask",
+      "Keras",
+      "Tensorflow",
+      "PyPI Package"
+    ]
+  },
+  {
+    "Name": "Shriya Madan",
+    "Desc": "Student Developer | Passionate Learner and Mentor",
+    "Pics": [
+      "https://avatars1.githubusercontent.com/u/38863530?v=4"
+    ],
+    "Contact": {
+      "LinkedIn": "https://www.linkedin.com/in/shriya-madan-5b1283167",
+      "GitHub": "https://github.com/shriyaMadan",
+      "Facebook": "https://www.facebook.com/shriya.madan.710/",
+      "Instagram": "https://www.instagram.com/madan.shriya_5/"
+    },
+    "Project": "https://github.com/shriyaMadan/Youtube-Dashboard",
+    "Tech": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Node JS",
+      "React JS",
+      "API",
+      "Oauth"
+    ]
   }
 ]
