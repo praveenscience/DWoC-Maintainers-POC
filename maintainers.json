@@ -16,13 +16,7 @@
       "Instagram": "https://www.instagram.com/praveenscience/"
     },
     "Project": "https://github.com/praveenscience/Internship-LMS-FrontEnd",
-    "Tech": [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "React JS",
-      "Node JS"
-    ]
+    "Tech": ["HTML", "CSS", "JavaScript", "React JS", "Node JS"]
   },
   {
     "Name": "Abir Pal",
@@ -60,11 +54,6 @@
       "Twitter": "https://twitter.com/ksdkamesh99"
     },
     "Project": "https://github.com/ksdkamesh99/TensorGram",
-    "Tech": [
-      "Machine Learning",
-      "Flask",
-      "Keras,
-      "Tensorflow",
-      "PyPI Package"    ]
+    "Tech": ["Machine Learning", "Flask", "Keras", "Tensorflow", "PyPI Package"]
   }
 ]
